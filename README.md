@@ -1,6 +1,6 @@
 ## User Stories for techNotes
 
-1. [] Replace the current sticky note system
+1. [x] Replace the current sticky note system
 2. [x] Add a public-facing page with basic contact info
 3. [x] Add an employee login to the Notes app
 4. [x] Provide a welcome page after login
