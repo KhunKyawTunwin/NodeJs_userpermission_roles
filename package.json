@@ -1,7 +1,7 @@
 {
   "name": "nodejs7ours",
   "version": "1.0.0",
-  "description": "✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).",
+  "description": "techNotes MERN Projects",
   "main": "server.js",
   "dependencies": {
     "bcrypt": "^5.0.1",
@@ -10,7 +10,10 @@
     "date-fns": "^2.23.0",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
+    "mongoose": "^7.4.1",
+    "mongoose-sequence": "^5.3.1",
     "uuid": "^8.3.2"
   },
   "scripts": {
