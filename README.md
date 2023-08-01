@@ -7,7 +7,7 @@
 5. [ ] Provide easy navigation
 6. [ ] Display the current user and assigned role
 7. [x] Provide a logout option
-8. [x] Require users to login at least once per week
+8. [x] Require users to log in at least once per week
 9. [x] Provide a way to remove user access asap if needed
 10. [x] Notes are assigned to specific users
 11. [x] Notes have a ticket #, title, note body, created & updated dates
